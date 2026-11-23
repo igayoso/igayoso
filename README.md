@@ -16,8 +16,11 @@ At Lessthan3 we started in 2023 doing DevOps, FinOps and SecOps for other compan
 | 🐄 | [**Mosicu**](https://www.gayoso.me/projects/mosicu/) | GPS collars for mountain livestock: electronics, 3D-printed case, ESP32 firmware, NB-IoT, Supabase backend, Flutter apps. | Piloting |
 | 🖥️ | [**Nodea**](https://www.gayoso.me/projects/nodea/) | Turns a company's own laptops into one private AI inference cluster. With Jon de Andrés. Client: [nodea-sh/nodea-client](https://github.com/nodea-sh/nodea-client) | Live |
 | 🏠 | [**MoraLife**](https://www.gayoso.me/projects/moralife/) | A financial digital twin that simulates 1,000 futures to answer "can we afford a home?". [Source](https://github.com/igayoso/moralife) | Open source |
-| 🚲 | [**Chapas**](https://www.gayoso.me/projects/chapas/) | The 80s schoolyard bottle-cap race, as a free iOS and Android app with online multiplayer on Cloudflare. | In progress |
 | 🐰 | [**Oh Conejo**](https://www.gayoso.me/projects/oh-conejo/) | Bedtime stories written and read aloud entirely on the phone, with an on-device fine-tuned model. | In progress |
+
+<!-- Chapas is hidden for now. To show it again, put this row back after MoraLife:
+| 🚲 | [**Chapas**](https://www.gayoso.me/projects/chapas/) | The 80s schoolyard bottle-cap race, as a free iOS and Android app with online multiplayer on Cloudflare. | In progress |
+-->
 
 Each one has a page explaining how it works and why it's built that way.
 
